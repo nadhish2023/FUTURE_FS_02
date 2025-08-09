@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "EchoPulse Pro Headphones",
+    "description": "Flagship over-ear headphones with adaptive noise cancellation, 40-hour battery, and crystal-clear audio for studio or travel.",
+    "price": 249,
+    "thumbnail": "/products/1.png"
+  },
+  {
+    "id": 2,
+    "title": "EchoPulse Sport",
+    "description": "Sweat and water-resistant earbuds designed for an active lifestyle. Secure fit and powerful bass to fuel your workouts.",
+    "price": 179,
+    "thumbnail": "/products/2.png"
+  },
+  {
+    "id": 3,
+    "title": "Aura Headphones",
+    "description": "Sleek and lightweight over-ear headphones delivering rich, detailed sound with plush ear cushions for all-day comfort.",
+    "price": 199,
+    "thumbnail": "/products/3.png"
+  },
+  {
+    "id": 4,
+    "title": "Pulse Mini",
+    "description": "All the power of EchoPulse in a smaller package. Perfect for all-day comfort and exceptional sound on the go.",
+    "price": 129,
+    "thumbnail": "/products/4.png"
+  },
+  {
+    "id": 5,
+    "title": "Nova Earbuds",
+    "description": "True wireless earbuds with balanced mids and punchy bass, smart touch controls, and 30 hours total battery with charging case.",
+    "price": 149,
+    "thumbnail": "/products/5.png"
+  },
+  {
+    "id": 6,
+    "title": "Orion Headphones",
+    "description": "Over-ear wireless headphones with hybrid active noise cancellation, 35-hour battery life, memory-foam earcups, and balanced tuning for music and calls.",
+    "price": 159,
+    "thumbnail": "/products/6.png"
+  },
+  {
+    "id": 7,
+    "title": "Astro Earbuds",
+    "description": "Compact true wireless earbuds featuring spatial audio, low-latency gaming mode, and IPX4 sweat resistance for workouts.",
+    "price": 299,
+    "thumbnail": "/products/7.png"
+  },
+  {
+    "id": 8,
+    "title": "Nebula Headphones",
+    "description": "Premium over-ear headphones with 50mm drivers, wide soundstage, and a foldable design for easy portability.",
+    "price": 189,
+    "thumbnail": "/products/8.png"
+  },
+  {
+    "id": 9,
+    "title": "Supernova Earbuds",
+    "description": "Flagship true wireless earbuds with adaptive EQ, high-bitrate codec support, and a premium metal charging case.",
+    "price": 399,
+    "thumbnail": "/products/9.png"
+  },
+  {
+    "id": 10,
+    "title": "Voyager Headphones",
+    "description": "Travel-focused active noise-cancelling over-ear headphones with 40-hour battery, compact folding hinge, and plush cushions.",
+    "price": 219,
+    "thumbnail": "/products/10.png"
+  },
+  {
+    "id": 11,
+    "title": "Aurora Studio Headphones",
+    "description": "Studio-grade reference over-ear headphones with ultra-flat frequency response, detachable cable, and rugged build for professionals.",
+    "price": 349,
+    "thumbnail": "/products/11.png"
+  },
+  {
+    "id": 12,
+    "title": "Eclipse Earbuds",
+    "description": "In-ear active noise-cancelling earbuds with hybrid ANC, ambient mode, and a secure ergonomic fit for commuting.",
+    "price": 279,
+    "thumbnail": "/products/12.png"
+  }
+]
